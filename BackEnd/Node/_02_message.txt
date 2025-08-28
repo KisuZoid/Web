@@ -1,0 +1,2 @@
+Hello from _02_nativeModule.js
+Hello from message.txt
