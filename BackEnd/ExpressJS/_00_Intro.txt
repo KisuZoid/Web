@@ -5,5 +5,3 @@ Express enable us to use node and JS with very ease for making websites.
 --> Readability
 --> Less code
 --> can add middleware features
-
-Server
